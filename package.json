@@ -1,0 +1,20 @@
+{
+  "name": "battlecss",
+  "version": "1.0.0",
+  "description": "Gathering of the battle css present in battlecss.dev with classic CSS and tailwind CSS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "battle",
+    "css",
+    "tailwind",
+    "learning"
+  ],
+  "author": "Guillaume-FAURE",
+  "license": "MIT",
+  "devDependencies": {
+    "tailwindcss": "^3.1.6"
+  }
+}
